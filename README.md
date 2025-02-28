@@ -1,9 +1,3 @@
-Below is a complete and consolidated `README.md` for the **Stock Price Predictor** project, incorporating all necessary details as per your requirements. This README includes the project overview, installation guide, usage examples, CLI documentation, tutorial, contributing guidelines, and license information in a single, well-structured Markdown file. It aligns with the specified `readme_specs` (sections and badges) and reflects the project's quality standards.
-
----
-
-### `README.md`
-```markdown
 # Stock Price Predictor
 
 ![Build Status](https://github.com/rafael-fuentes/stock-price-predictor/actions/workflows/ci.yml/badge.svg)
